@@ -1,0 +1,5 @@
+[
+    { "keys": ["f7"], "command": "build" },
+    { "keys": ["f8"], "command": "pep8_check" },
+    { "keys": ["shift+f8"], "command": "google_it" }
+]
