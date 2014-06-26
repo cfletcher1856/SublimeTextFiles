@@ -1,0 +1,51 @@
+{
+	"auto_upgrade_last_run": null,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CoffeeScript",
+		"Djaneiro",
+		"EJS",
+		"Emmet",
+		"Jade",
+		"LastModifiedIndicator",
+		"LESS",
+		"Nettuts+ Fetch",
+		"nginx",
+		"Package Control",
+		"Phpcs",
+		"PowerShell",
+		"SFTP",
+		"SideBarEnhancements",
+		"Sublime-KnockoutJS-Snippets",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SuperNavigator",
+		"SyncedSideBar",
+		"Typewriter",
+		"WordHighlight"
+	],
+	"package_name_map":
+	{
+		"SublimeCodeIntel": "SublimeCodeIntel",
+		"SublimeLinter": "SublimeLinter",
+		"coffee-script-tmbundle": "CoffeeScript",
+		"less.tmbundle": "LESS"
+	},
+	"repositories":
+	[
+		"https://github.com/Kronuz/SublimeCodeIntel",
+		"https://github.com/SublimeLinter/SublimeLinter",
+		"https://github.com/jashkenas/coffee-script-tmbundle",
+		"https://github.com/appden/less.tmbundle",
+		"https://github.com/alehandrof/Typewriter"
+	],
+	"repository_channels":
+	[
+		"http://sublime.wbond.net/repositories.json"
+	]
+}

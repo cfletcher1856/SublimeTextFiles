@@ -1,0 +1,9 @@
+[
+    { "keys": ["f7"], "command": "build" },
+    { "keys": ["f8"], "command": "pep8_check" },
+    { "keys": ["shift+f8"], "command": "google_it" },
+    { "keys": ["f2"], "command": "side_bar_rename" },
+    { "keys": ["ctrl+v"], "command": "paste_and_indent" },
+    { "keys": ["super+k", "super+a"], "command": "super_navigate"},
+    { "keys": ["super+k", "super+s"], "command": "super_navigate", "args": { "allTabs": true }}
+]

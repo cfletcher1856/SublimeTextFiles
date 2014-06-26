@@ -1,0 +1,124 @@
+2012-02-22 17:28:40
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1189, in run
+WindowsError: [Error 3] The system cannot find the path specified: u'C:\\Users\\colin\\Desktop\\stats\\js\\knockout-2.0.0.js'
+2012-02-22 17:29:10
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1189, in run
+WindowsError: [Error 3] The system cannot find the path specified: u'C:\\Users\\colin\\Desktop\\stats\\js\\knockout-2.0.0.js'
+2012-02-28 11:12:49
+Error parsing remote folder listing:
+  Unable to open .: no such file or directory
+2012-02-28 11:12:49
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 240, in run
+  File "./sftp/commands.py", line 366, in do_operation
+  File "./sftp/file_transfer.py", line 259, in list
+  File "./sftp/sftp_transport.py", line 342, in ls
+  File "./sftp/file_transfer.py", line 605, in parse_ls
+ConnectionError: Error parsing remote folder listing
+2012-03-28 16:41:18
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 375, in do_operation
+  File "./sftp/sftp_transport.py", line 234, in lcd
+NotFoundError: Folder not found
+2012-03-28 17:25:10
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 375, in do_operation
+  File "./sftp/sftp_transport.py", line 234, in lcd
+NotFoundError: Folder not found
+2012-03-29 12:06:25
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 375, in do_operation
+  File "./sftp/sftp_transport.py", line 234, in lcd
+NotFoundError: Folder not found
+2012-03-29 12:11:49
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 375, in do_operation
+  File "./sftp/sftp_transport.py", line 234, in lcd
+NotFoundError: Folder not found
+2012-03-29 12:13:10
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 375, in do_operation
+  File "./sftp/sftp_transport.py", line 234, in lcd
+NotFoundError: Folder not found
+2012-03-29 12:18:15
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 375, in do_operation
+  File "./sftp/sftp_transport.py", line 234, in lcd
+NotFoundError: Folder not found
+2012-03-29 14:25:02
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 375, in do_operation
+  File "./sftp/sftp_transport.py", line 234, in lcd
+NotFoundError: Folder not found
+2012-04-02 10:17:04
+Error parsing remote folder listing:
+  Unable to open .: no such file or directory
+2012-04-02 10:17:09
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 367, in do_operation
+  File "./sftp/file_transfer.py", line 259, in list
+  File "./sftp/sftp_transport.py", line 342, in ls
+  File "./sftp/file_transfer.py", line 605, in parse_ls
+ConnectionError: Error parsing remote folder listing
+2013-07-05 15:20:34
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1285, in run
+WindowsError: [Error 3] The system cannot find the path specified: u'S:\\Projects\\backbone\\assets\\templates\\HeaderView.html'
+2014-03-10 11:23:59
+Error parsing remote folder listing:
+  drwxrwxrwx    2 colinfle colinfle     4096 Mar 10 10:19 .
+  drwxrwx---    5 colinfle colinfle     4096 Mar  6  2013 ..
+  -rw-rw-rw-    1 colinfle colinfle     2541 Apr 10  2013 Bar.php
+  -rw-rw-rw-    1 colinfle colinfle     2778 Mar 10 10:19 BlindDraw.php
+  -rw-rw-rw-    1 colinfle colinfle     2275 Jun 24  2013 Division.php
+  -rw-r--r--    1 colinfle colinfle     4054 Apr  9  2013 Match.php
+  -rw-rw-rw-    1 colinfle colinfle     2879 Apr  2  2013 MatchDetails.php
+  -rw-rw-rw-    1 colinfle colinfle     2833 Apr 10  2013 Payment.php
+  -rw-rw-rw-    1 colinfle colinfle     9273 Mar  4 11:09 Player.php
+  -rw-rw-rw-    1 colinfle colinfle     2560 Jun 24  2013 PlayerSeason.php
+  -rw-rw-rw-    1 colinfle colinfle     4542 Mar 26  2013 Profile.php
+  -rw-r--r--    1 colinfle colinfle     1442 Feb 24 08:52 Reports.php
+  -rw-rw-rw-    1 colinfle colinfle     4760 Feb 20 15:17 Schedule.php
+  -rw-rw-rw-    1 colinfle colinfle   New local directory is P:\austinspremierleague\protected\modules\admin\controllers
+2014-03-10 11:23:59
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 15, in run_with_except_hook
+  File "./sftp/threads.py", line 113, in handler
+  File "./sftp/commands.py", line 332, in run
+  File "./sftp/commands.py", line 480, in do_operation
+  File "./sftp/file_transfer.py", line 34, in handler
+  File "./sftp/file_transfer.py", line 432, in list
+  File "./sftp/sftp_transport.py", line 442, in ls
+  File "./sftp/file_transfer.py", line 820, in parse_ls
+ConnectionError: Error parsing remote folder listing

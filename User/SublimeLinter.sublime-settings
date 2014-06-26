@@ -1,0 +1,11 @@
+{
+    "sublimelinter_gutter_marks": true,
+    "sublimelinter_popup_errors_on_save": true,
+    "sublimelinter_mark_style": "outline",
+    "pep8_ignore":
+    [
+        "E501",
+        "E128",
+        "E124"
+    ]
+}

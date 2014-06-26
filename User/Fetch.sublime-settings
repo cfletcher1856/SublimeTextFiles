@@ -1,0 +1,12 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"lodash": "https://raw.github.com/bestiejs/lodash/master/lodash.js",
+		"underscore": "https://raw.github.com/documentcloud/underscore/master/underscore-min.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}
